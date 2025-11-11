@@ -19,7 +19,7 @@ Elvis Miranda Teixeira
 
 Estrutura do Repositório
 
-analise-ambiental-c/
+projeto_AplicadoIII_MonitoramentoAmbiental/
 ├── .gitignore
 ├── Makefile
 ├── README.md
@@ -56,7 +56,7 @@ make
 
 2. Executar o programa:
 
-./analise_ambiental
+./projeto_AplicadoIII_MonitoramentoAmbiental
 
 
 3. Limpar os arquivos compilados:
